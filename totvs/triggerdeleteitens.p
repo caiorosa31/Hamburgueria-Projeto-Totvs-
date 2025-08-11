@@ -1,0 +1,5 @@
+TRIGGER PROCEDURE FOR DELETE OF Pedidos.
+
+FOR EACH itens OF pedidos EXCLUSIVE-LOCK:
+  DELETE itens.
+END.

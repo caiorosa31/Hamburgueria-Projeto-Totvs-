@@ -8,12 +8,12 @@
   <i>Sistema de Gestão para Hamburguerias – Progress OpenEdge</i><br>
   <b>Projeto Final de Treinamento</b>
   <br><br>
-  <a href="#sobre">Sobre</a> |
-  <a href="#funcionalidades">Funcionalidades</a> |
-  <a href="#tecnologias">Tecnologias</a> |
-  <a href="#execução">Como Executar</a> |
-  <a href="#estrutura">Estrutura</a> |
-  <a href="#autor">Autor</a>
+  <a">Sobre</a> |
+  <a>Funcionalidades</a> |
+  <a>Tecnologias</a> |
+  <a>Como Executar</a> |
+  <a>Demonstração Youtube</a> |
+  <a>Autor</a>
 </p>
 
 <p align="center">
@@ -32,7 +32,6 @@
 - [🗄️ Modelagem de Dados]
 - [📦 Instalação & Execução]
 - [🎬 Demonstração Youtube]
-- [📂 Estrutura de Pastas]
 - [👤 Autor]
 </details>
 

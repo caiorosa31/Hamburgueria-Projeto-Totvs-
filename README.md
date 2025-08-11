@@ -267,5 +267,5 @@ O arquivo .propath já está configurado para utilizar variáveis de ambiente, f
 ## 👤 Autor
 <table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/209710448?v=4" width="80;" alt=""/> <br /> <b>Caio Rodrigues</b> <br /> <sub>Engenheiro de Software</sub> </td> </tr> </table>
 <div>Trabalho desenvolvido para treinamento Progress OpenEdge – 2025</div>
-<div><b>Entre em contato: cioh.310306@gmail.com</b></div>
+<div><b>Entre em contato: caioh.310306@gmail.com</b></div>
 

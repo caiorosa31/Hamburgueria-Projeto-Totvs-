@@ -13,6 +13,7 @@
   <a>Tecnologias</a> |
   <a>Como Executar</a> |
   <a>Demonstração Youtube</a> |
+  <a>Configurações para utilizar em outros computadores</a> |
   <a>Autor</a>
 </p>
 

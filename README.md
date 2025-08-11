@@ -208,6 +208,59 @@ e selecione a primeira opção.
 ```
 https://youtu.be/NyGHx6vTDac
 
+# Configurações para utilizar em outros computadores.
+
+## Alterações que podem ser Necessárias
+```sh
+Para executar o projeto em outros locais, pode ser que precise ajustar caminhos.
+
+1️⃣ Arquivo menu.p
+Nas linhas 28, 31, 34, 37 estão localizados a ligação dos programas externos que compõem o programa de gerenciamento,
+pode ser que para funcionar você tenha que alterar o caminhos da chamada do programa.
+
+Atual:
+RUN cidades.p
+
+Alterar de acordo com seu caminho
+RUN /caminho/para/seu/projeto/cidades.p.
+
+2️⃣ Arquivo clientes.p
+Na linha 53
+
+Atual:
+RUN consultarcidades.p
+
+Alterar de acordo com seu caminho
+RUN /caminho/para/seu/projeto/consultarcidades.p
+
+3️⃣ Arquivo clientes.p
+Na linha 53
+
+Atual:
+RUN consultarcidades.p
+
+Alterar de acordo com seu caminho
+RUN /caminho/para/seu/projeto/consultarcidades.p
+
+4️⃣ Arquivo pedidos.p
+Na linha 69
+
+Atual:
+RUN consultarclientes.p
+
+Alterar de acordo com seu caminho
+RUN /caminho/para/seu/projeto/consultarclientes.p
+```
+
+## Configuração do PROPATH
+```sh
+O arquivo .propath já está configurado para utilizar variáveis de ambiente, facilitando a portabilidade:
+
+@{ROOT} → Diretório raiz do projeto
+@{WORK} → Diretório de trabalho
+```
+
+
 
 
 ## 👤 Autor

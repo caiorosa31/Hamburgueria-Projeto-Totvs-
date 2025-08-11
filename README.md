@@ -211,31 +211,6 @@ https://youtu.be/NyGHx6vTDac
 
 
 
-
-
-
-
-
-
-
-
-## 📂 Estrutura de Pastas
-
-```python
-/xtudoprojeto
-├── cidades.p         # Cadastro de cidades
-├── clientes.p        # Cadastro de clientes
-├── produtos.p        # Cadastro de produtos
-├── pedidos.p         # Cadastro de pedidos e browser de itens
-├── itens.p           # Cadastro e manutenção de itens
-├── additens.p        # Inclusão de itens (modal)
-├── moditens.p        # Alteração de itens
-├── deleteitens.p     # Exclusão de itens
-├── Trabalho_Final.pdf
-└── README.md
-
-```
-
 ## 👤 Autor
 <table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/209710448?v=4" width="80;" alt=""/> <br /> <b>Caio Rodrigues</b> <br /> <sub>Engenheiro de Software</sub> </td> </tr> </table>
 <div>Trabalho desenvolvido para treinamento Progress OpenEdge – 2025</div>

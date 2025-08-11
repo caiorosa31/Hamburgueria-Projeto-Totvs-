@@ -26,13 +26,14 @@
 <details open>
 <summary><b>📑 Sumário</b></summary>
 
-- [🧀 Sobre](#sobre)
-- [🚀 Funcionalidades](#funcionalidades)
-- [🛠️ Tecnologias](#tecnologias)
-- [🗄️ Modelagem de Dados](#Modelagem)
-- [📦 Instalação & Execução](#execução)
-- [📂 Estrutura de Pastas](#estrutura)
-- [👤 Autor](#autor)
+- [🧀 Sobre]
+- [🚀 Funcionalidades]
+- [🛠️ Tecnologias]
+- [🗄️ Modelagem de Dados]
+- [📦 Instalação & Execução]
+- [🎬 Demonstração Youtube]
+- [📂 Estrutura de Pastas]
+- [👤 Autor]
 </details>
 
 ---

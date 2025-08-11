@@ -90,7 +90,7 @@ Itens     (CodPedido, CodItem, CodProduto, NumQuantidade, ValTotal)
 - Banco de dados criado nome: `xtudo.db`
 - Scripts `.p`, `triggers` e `banco de dados` disponibilizados na pasta do projeto
 
-### <div id="#execução">Rodando o sistema</div
+### <div id="#execução">Rodando o sistema</div>
 
 ```sh
 1. Baixe a pasta com os arquivos disponibilizados no github.
